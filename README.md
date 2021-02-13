@@ -7,7 +7,7 @@ Hi, My name is Garima. I'm a product engineer with 4 years of experience. You ca
 Hi there, I'm Jade. I have been a Software Engineer for two years after finishing coding bootcamp. Feel free to check out my blog at www.jadekneen.dev or my Twitter account @CodeWithJade
 
 ## Pradeep
-Hi, I am Pradeep, a Blockchain Developer from Toronto. I am interested in creating smart contracts and dectralized applications on blockchain.
+Hi, I am Pradeep, a Blockchain Developer from Toronto. I develop decentralized applications on Ethereum and HyperLedger networks. My Repo: https://github.com/pradeepp88
 
 ## Ben
 
