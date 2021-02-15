@@ -3,7 +3,7 @@ We decided to build this app with one focus: to engage and teach the younger gen
 
 # Meet The Team
 
-## Pradeep (Software Developer - Blockchain)
+## Pradeep (Software Developer - FrontEnd)
 Hi, I am Pradeep, a Blockchain Developer from Toronto. I develop decentralized applications on Ethereum and HyperLedger networks. My Repo: https://github.com/pradeepp88
 
 ## Mike (Project Manager)
@@ -18,7 +18,7 @@ Hi, My name is Garima. I'm a product engineer with 4 years of experience. You ca
 ## Jade (Software Developer - DB)
 Hi there, I'm Jade. I have been a Software Engineer for two years after finishing coding bootcamp. Feel free to check out my blog at www.jadekneen.dev or my Twitter account @CodeWithJade
 
-## Sam (Software Developer - Frontend)
+## Sam (Software Developer - Backed)
 Hi. I am Samuel. A junior software developer excited to learn and collaborate with others. You can check out my portfolio at https://sam-ok.github.io/myPortfolio/
 
 ## Tech Stack
